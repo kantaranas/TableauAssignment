@@ -31,6 +31,7 @@ The age of the riders remains between 36 and 42 years old.
 # Analysis
 
 * Map illustrating the bike stations in the dataset
+![Map of Stations](images/story01.PNG)
 
 * CitiBike Usage for the time period selected
 

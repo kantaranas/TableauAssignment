@@ -14,6 +14,8 @@ Multiple steps were taken to make it happen:
 * Tested working with all 17 millions rows and discovered that wasn't efficient
 * Created a sample of the data containing 10,000 rows for the analysis
 
+![Citi Bike Photo](images/Transparent-Bike.png)
+
 # Discoveries
 
 In NYC the popular stations revolve around midtown and lower Manhattan.
@@ -36,15 +38,15 @@ The age of the riders remains between 36 and 42 years old.
 
 * CitiBike Usage for the time period selected
 
-![Map of Stations](images/story02.PNG)
+![Usage](images/story02.PNG)
 
 * Citi Bike Rider Demographics
 
-![Map of Stations](images/story03.PNG)
+![Demographics](images/story03.PNG)
 
 * Rider type, Yearly Subscriber vs Short Term Customer
 
-![Map of Stations](images/story04.PNG)
+![Rider Type](images/story04.PNG)
 
 # ETL
 

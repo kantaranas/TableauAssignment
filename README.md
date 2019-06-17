@@ -31,13 +31,20 @@ The age of the riders remains between 36 and 42 years old.
 # Analysis
 
 * Map illustrating the bike stations in the dataset
+
 ![Map of Stations](images/story01.PNG)
 
 * CitiBike Usage for the time period selected
 
+![Map of Stations](images/story02.PNG)
+
 * Citi Bike Rider Demographics
 
+![Map of Stations](images/story03.PNG)
+
 * Rider type, Yearly Subscriber vs Short Term Customer
+
+![Map of Stations](images/story04.PNG)
 
 # ETL
 
@@ -70,10 +77,5 @@ def distance_calc (row):
     return vincenty(start, stop * 1).miles
 
 df1['distance'] = df1.apply (lambda row: distance_calc (row),axis=1)
-
-```
-
-
-```python
 
 ```

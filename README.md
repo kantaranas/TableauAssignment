@@ -18,9 +18,9 @@ Multiple steps were taken to make it happen:
 
 # Discoveries
 
-In NYC the popular stations revolve around midtown and lower Manhattan.
+In NYC, the popular stations revolve around midtown and lower Manhattan.
 There is consistent usage of the bikes from May through October. 
-The other months are not as popular as the summer months. Most likely due to the weather.
+The other months are not as popular as the summer months.
 
 The demographics results show a large shift towards male riders by a -/+ 75% margin. Females riders maintain an average of 22% to 25% throughout the year.
 
@@ -36,17 +36,31 @@ The age of the riders remains between 36 and 42 years old.
 
 ![Map of Stations](images/story01.PNG)
 
+---
+
 * CitiBike Usage for the time period selected
 
 ![Usage](images/story02.PNG)
+
+---
 
 * Citi Bike Rider Demographics
 
 ![Demographics](images/story03.PNG)
 
+---
+
 * Rider type, Yearly Subscriber vs Short Term Customer
 
 ![Rider Type](images/story04.PNG)
+
+---
+
+* Top Ending Bike Stations and Top Bike ID's
+
+![Top Stations](images/story05.PNG)
+
+---
 
 # ETL
 
